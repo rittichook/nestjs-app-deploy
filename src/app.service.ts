@@ -11,7 +11,7 @@ export class AppService {
       dateEnd: "12:00:00",
       teacher: "A.Jarukit",
       room: "ROOM A"
-    }
+    },
     {
       id: "2",
       subject: "เทคโนโลยีปรับอากาศ",
@@ -19,7 +19,7 @@ export class AppService {
       dateEnd: "12:00:00",
       teacher: "A.Jarukit",
       room: "ROOM A"
-    }
+    },
     {
       id: "3",
       subject: "เทคโนโลยีปรับอากาศ",
@@ -27,7 +27,7 @@ export class AppService {
       dateEnd: "12:00:00",
       teacher: "A.Jarukit",
       room: "ROOM A"
-    }
+    },
     {
       id: "4",
       subject: "เทคโนโลยีปรับอากาศ",
@@ -35,7 +35,7 @@ export class AppService {
       dateEnd: "12:00:00",
       teacher: "A.Jarukit",
       room: "ROOM A"
-    }
+    },
     {
       id: "5",
       subject: "เทคโนโลยีปรับอากาศ",
