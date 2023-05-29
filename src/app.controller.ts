@@ -9,4 +9,15 @@ export class AppController {
   getHello(): string {
     return this.appService.getHello();
   }
+
+  @Get('/test')
+  findAll(){
+    return [
+      {
+        id:1,
+        startDate:'2017-08-22T06:11:00.000Z',
+        endDate:'2017-08-22T06:11:00.000Z'
+      }
+    ];
+  }
 }
