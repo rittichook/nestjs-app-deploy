@@ -11,8 +11,8 @@ export class AppService {
         color: '0xFF7EC1DA',
       },
             {
-        startTime: '2023-06-02 08:00:00.919982',
-        endTime: '2023-06-02 11:00:00.919982',
+        startTime: '2023-06-01 13:00:00.919982',
+        endTime: '2023-06-01 16:00:00.919982',
         subject: 'วิชาเทคโนโลยียานยนต์',
         color: '0xFF7EC1DA',
       },
