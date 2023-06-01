@@ -46,8 +46,8 @@ export class AppService {
       },
       //FRI
       {
-        startTime: '2023-06-01 13:00:00.919982',
-        endTime: '2023-06-01 18:00:00.919982',
+        startTime: '2023-06-02 13:00:00.919982',
+        endTime: '2023-06-02 18:00:00.919982',
         subject: 'วิชาฟิสิกส์',
         color: '0xFF7EC1DA',
       },
