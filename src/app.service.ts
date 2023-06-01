@@ -8,7 +8,7 @@ export class AppService {
         startTime: '2023-05-24 15:31:14.919982',
         endTime: '2023-05-24 16:50:14.919982',
         subject: 'subject',
-        color: 0xFFE384DA,
+        color: '0xFFE384DA',
     },
 ]
   ];
