@@ -5,45 +5,12 @@ export class AppService {
   getHello(): string {
     const data = [
       {
-      id: "1",
-      subject: "เทคโนโลยีปรับอากาศ",
-      dateStart: "08:00:00",
-      dateEnd: "12:00:00",
-      teacher: "A.Jarukit",
-      room: "ROOM A"
+        startTime: DateTime.parse("2023-05-24 15:31:14.919982"),
+        endTime: DateTime.parse("2023-05-24 16:50:14.919982"),
+        subject: 'subject',
+        color: 0xFFE384DA),
     },
-    {
-      id: "2",
-      subject: "เทคโนโลยีปรับอากาศ",
-      dateStart: "08:00:00",
-      dateEnd: "12:00:00",
-      teacher: "A.Jarukit",
-      room: "ROOM A"
-    },
-    {
-      id: "3",
-      subject: "เทคโนโลยีปรับอากาศ",
-      dateStart: "08:00:00",
-      dateEnd: "12:00:00",
-      teacher: "A.Jarukit",
-      room: "ROOM A"
-    },
-    {
-      id: "4",
-      subject: "เทคโนโลยีปรับอากาศ",
-      dateStart: "08:00:00",
-      dateEnd: "12:00:00",
-      teacher: "A.Jarukit",
-      room: "ROOM A"
-    },
-    {
-      id: "5",
-      subject: "เทคโนโลยีปรับอากาศ",
-      dateStart: "08:00:00",
-      dateEnd: "12:00:00",
-      teacher: "A.Jarukit",
-      room: "ROOM A"
-    }
+]
   ];
 
   
