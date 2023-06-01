@@ -9,17 +9,12 @@ export class AppService {
         endTime: '2023-05-24 16:50:14.919982',
         subject: 'subject',
         color: '0xFFE384DA',
-    },
-]
-  ];
+      }
+    ];
 
-  
-
-    // Convert the data array to a JSON string
     const jsonString = JSON.stringify(data);
 
     return jsonString;
   }
-
-  
 }
+
